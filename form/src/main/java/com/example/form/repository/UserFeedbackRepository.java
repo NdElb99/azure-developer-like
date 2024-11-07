@@ -5,4 +5,6 @@ import com.example.form.model.UserFeedback;
 
 @Repository
 public interface UserFeedbackRepository extends CosmosRepository<UserFeedback, String> {
+
+    
 }
